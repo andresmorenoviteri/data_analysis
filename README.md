@@ -10,6 +10,11 @@ Verwenden Sie den folgenden Link, um die Do-it-yourself-Version (DIY) in Google 
 https://colab.research.google.com/github/andresmorenoviteri/data_analysis/blob/main/EDA_cars.ipynb
 
 
+Do-it-yourself-Version fertig in Google Colab aufzurufen:
+
+https://colab.research.google.com/github/andresmorenoviteri/data_analysis/blob/main/EDA_cars_worked.ipynb
+
+
 Verwenden Sie den folgenden Link, um die Do-it-yourself-Version-2 (DIY2) in Google Colab aufzurufen:
 
 https://colab.research.google.com/github/andresmorenoviteri/data_analysis/blob/main/EDA_laptops.ipynb
